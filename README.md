@@ -1,7 +1,7 @@
 <h1 align="center">Treadmill Go Kart</h1>
 <p align="center">Files and information related to my treadmill go kart project.</p>
 
-![Go kart with remote control](media/gokartpose.jpeg)
+![Treadmill go kart](media/gokartpose.jpeg)
 
 > [!NOTE]
 > Everything is documented in detail on [YouTube](https://www.youtube.com/@lucasmakes).
