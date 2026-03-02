@@ -3,8 +3,7 @@
 
 ![Treadmill go kart](media/gokartpose.jpeg)
 
-> [!NOTE]
-> Everything is documented in detail on [YouTube](https://www.youtube.com/@lucasmakes).
+
 
 ## Electrical specifications
 - Motor: 2.6 kWh DC (treadmill motor)
