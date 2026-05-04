@@ -3,6 +3,9 @@
 
 ![Treadmill go kart](media/gokartfrontpic.jpg)
 
+> [!NOTE]
+> This project is on [YouTube](https://www.youtube.com/watch?v=N4MxAX4iE6Q).
+
 
 
 ## Electrical specifications
